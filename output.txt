@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>API提取代理ip地址-http代理服务器api地址ip自动提取</title>
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+  <meta name="Description" content="" />
+  <meta name="Keywords" content="API,提取IP,代理IP提取,IP地址链接" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
+  　　<meta name="applicable-device"content="pc,mobile">
+  <link rel="stylesheet" media="screen" href="http://fs.xicidaili.com/assets/application-9b7fb93ba2185c84900dd1088ca2a9165b1738ece9acffed4a4eb98f66e121e8.css" />
+  <meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="W1ICVIJnNVQlwOWn3kmhGWTTQ51obCjML76F1gCF60iZ6acWOzNBgjr4LF9AYrB4jL0ZsAqXXCYuaw/Bb/vVyw==" />
+</head>
+<body>
+  <div id="wrapper">
+    <div id="header">
+      <h1>API提取代理ip地址</h1>
+      <img alt="免费http代理" id="logo" src="http://fs.xicidaili.com/images/logo.png" />
+      <div id="myurl">
+        XiciDaili.com
+      </div>
+      <ul id="nav">
+        <li><a class="false" href="/">首页</a></li>
+        <li><a href="/api">API提取</a></li>
+        <li><a class="false" href="/nn/">国内高匿代理</a></li>
+        <li><a class="false" href="/nt/">国内普通代理</a></li>
+        <li><a class="false" href="/wn/">国内HTTPS代理</a></li>
+        <li><a class="false" href="/wt/">国内HTTP代理</a></li>
+        <li><a class="false" href="/articles/">代理小百科</a></li>
+      </ul>
+    </div>
+    <div id="body" class="clearfix api">
+      <div id="bread">
+  当前位置: 
+  <a href="/">首页</a>
+  &gt; API提取
+</div>
+
+<div class="clearfix" style="line-height:2em">
+  <div style="float:left;width:60%">
+    <div class="row">
+      <h2>免费API提取地址</h2>
+      <div class="content">
+        本月API提取地址：</br>
+        API链接中的IP地址每15分钟更新一次，因此不建议频繁读取API，15分钟来读取一次即可。 </br>
+        <a target="_blank" id="apilink" ref="nofollow" href="http://api.xicidaili.com/free2016.txt">http://api.xicidaili.com/free2016.txt</a></br>
+      </div>
+    </div>
+
+    <div class="row">
+      <h2>免费代理API说明</h2>
+      <div class="content">
+        API就是一个全是国内代理IP地址的一个链接，可以直接用浏览器打开读取，而已可以通过软件发起HTTP GET请求来调用读取。</br>
+        本站首创全网唯一免费API，从此不用再辛苦的来抓我的网页啦！</br>
+        API地址包含本站收录的最新100个国内代理IP地址，根据时间顺序从最新的到最老的排列。</br>
+        API请求频率限制为<span class="orange">每分钟最多5次</span>，超过5次API服务器会主动返回503错误，出现此错误后只需要等待1分钟，即可自动恢复访问。</br>
+      </div>
+    </div>
+  </div>
+  
+
+  <div style="float:right;width:35%">
+    <div class="row">
+      <h2 style="text-align:center;font-size:18px">高级API提取 (大象代理)</h2>
+      <div class="content">
+      <a target="_blank" href="http://www.daxiangdaili.com/"><img src="http://fs.xicidaili.com/images/side.png" alt="Side" /></a>
+    </div>
+    </div>
+  </div>
+  
+
+  
+</div>
+
+
+
+
+
+    </div>
+    
+    
+    <div id="footer">
+     <span class="site_name">苏ICP备13041844号-1</span> 
+     <span class="site_name">西刺免费代理IP</span> 
+     <span class="copy">&copy;</span>
+     <span class="site_url">XiciDaili.com </span>
+    </div>
+  </div>
+  <div style="display:none">
+    
+    <script>
+    var _hmt = _hmt || [];
+    (function() {
+      var hm = document.createElement("script");
+      hm.src = "https://hm.baidu.com/hm.js?0cf76c77469e965d2957f0553e6ecf59";
+      var s = document.getElementsByTagName("script")[0]; 
+      s.parentNode.insertBefore(hm, s);
+    })();
+    </script>
+    
+  </div>
+</body>
+</html>
