@@ -1,5 +1,5 @@
 File "ddos2.py", line 25, in getIpAddr
     if info["Content-Encoding"]=="gzip":
-      File "/usr/lib/python2.7/rfc822.py", line 393, in __getitem__
-          return self.dict[name.lower()]
-          KeyError: 'content-encoding'
+File "/usr/lib/python2.7/rfc822.py", line 393, in __getitem__
+    return self.dict[name.lower()]
+    KeyError: 'content-encoding'
