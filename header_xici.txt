@@ -1,12 +1,10 @@
-
-st=www.xicidaili.com
+Host=www.xicidaili.com
 User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0
 Accept=text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
 Accept-Language=en-US,en;q=0.5
 Accept-Encoding=gzip, deflate
-Referer=http://www.xicidaili.com/nt/
-Cookie=Hm_lvt_0cf76c77469e965d2957f0553e6ecf59=1490869358; _free_proxy_session=BAh7B0kiD3Nlc3Npb25faWQGOgZFVEkiJWJlMjdiNzRiZmE3MjY5NmQzMWEwYzRlYzQ1NDc4ZDdkBjsAVEkiEF9jc3JmX3Rva2VuBjsARkkiMXdydWxRcmxVZE5ZZk9NbjRuaXNSWWVodVdpMWkrM1RxQWRXS0YyOStQb009BjsARg%3D%3D--2706d0e78d27d3b39720e450882f4a955c65e3c5; Hm_lpvt_0cf76c77469e965d2957f0553e6ecf59=1490869988
-Connection=keep-alive
-If-None-Match=W/"309b50a918abd09a8c87011821da01c1"
+Referer=https://www.baidu.com/link?url=vELXeFjjYvspMk9W-KbG_tDKSKy0WukLPvTBxGsXGaU6YtVqx2mPtqrkbyRmvfNd&wd=&eqid=8bd90ba3000111c70000000358ddf761
+Cookie=Hm_lvt_0cf76c77469e965d2957f0553e6ecf59=1490869358,1490879933,1490882554,1490941923;_free_proxy_session=BAh7B0kiD3Nlc3Npb25faWQGOgZFVEkiJTk5ZWIyMDAyY2I2ZTA1ZWJmNDFiYTZlN2VjOTdjYzdjBjsAVEkiEF9jc3JmX3Rva2VuBjsARkkiMXBocngwa1RsQmk0cDFrQWlwREpzMmRiaFBKMkNjTEVTbWFmVEdXeStRR3M9BjsARg%3D%3D--28b10f7dee9eb62a731455b47c26c06fd77f25fe;Hm_lpvt_0cf76c77469e965d2957f0553e6ecf59=1490941923
+If-None-Match=W/"94adfd18bbcb58628f80469ddb775497"
 Cache-Control=max-age=0
 

@@ -1,582 +1,1268 @@
-<!doctype html>
+<!DOCTYPE html>
 <html>
 <head>
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1,user-scalable=no;">
-<title>购买HTTP代理IP - 快代理</title>
-
-<meta name="keywords" content="购买代理ip,购买代理服务器,购买国外代理ip,购买国内代理ip,付费代理ip,代理ip包月,代理api接口" />
-<meta name="description" content="快代理专业为您提供http代理ip购买，包天、包月、包年，提供代理API接口，代理API链接在线生成。" />
-
-<link rel="shortcut icon" href="http://img.kuaidaili.com/img/favicon.ico?v=3" type="image/x-icon">
-<link rel="stylesheet" href="http://img.kuaidaili.com/css/base.min.css?v=106" media="screen" />
-
-<style>
-    i.green { color:#66CD00; }
-    i.red { color:#EE0000; font-weight:normal; }
-</style>
-<!--[if lt IE 8]>
-<style>
-.row-fluid .span3 {
-    float: left;
-    margin-right:12px;
-}
-</style>
-<![endif]-->
-
-
-<meta name="renderer" content="webkit">
-<meta name="baidu-site-verification" content="AO3Q6dKj9R" />
-<meta name="sogou_site_verification" content="9ELczs5cQc"/>
-<meta name="360-site-verification" content="feeadcad97dd7093f9abb1ee5285f031" />
+  <title>免费代理IP_HTTP代理服务器IP_隐藏IP_QQ代理_国内外代理_西刺免费代理IP</title>
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+  <meta name="Description" content="每日更新免费HTTP代理，所有代理均为6675端口高匿代理，可隐藏IP。国内每个省的http匿名代理实时更新，可以根据你的需要分批提取。" />
+  <meta name="Keywords" content="免费HTTP代理,免费高匿代理,免费匿名代理,隐藏IP" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
+  　　<meta name="applicable-device"content="pc,mobile">
+  <link rel="stylesheet" media="screen" href="http://fs.xicidaili.com/assets/application-9b7fb93ba2185c84900dd1088ca2a9165b1738ece9acffed4a4eb98f66e121e8.css" />
+  <meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="MMYdggiolgkvmZJWGGeVxW5swAxvMxiejQwBtMlo0M2W3OxQTE2QJwZP0nS8VfkcuI38ke1DqYwUq9KtpdaQpg==" />
 </head>
-
 <body>
-
-<div id="header">
-    <div id="logo"><a href="/"><img src="http://img.kuaidaili.com/img/kdl_logo.jpg?v=1" alt="快代理logo"/></a></div>
-    <div class="header_top">
+  <div id="wrapper">
+    <div id="header">
+      <h1>西刺免费代理IP</h1>
+      <img alt="免费http代理" id="logo" src="http://fs.xicidaili.com/images/logo.png" />
+      <div id="myurl">
+        XiciDaili.com
+      </div>
+      <ul id="nav">
+        <li><a class="active" href="/">首页</a></li>
+        <li><a href="/api">API提取</a></li>
+        <li><a class="false" href="/nn/">国内高匿代理</a></li>
+        <li><a class="false" href="/nt/">国内普通代理</a></li>
+        <li><a class="false" href="/wn/">国内HTTPS代理</a></li>
+        <li><a class="false" href="/wt/">国内HTTP代理</a></li>
+        <li><a class="false" href="/articles/">代理小百科</a></li>
+      </ul>
+    </div>
+    <div id="body" class="clearfix home">
       
-        <span class="event">
-            <a href="/dps/"><img src="http://img.kuaidaili.com/img/private2.png" height="18" >&nbsp;私密代理重磅推出，每天3000+高速稳定IP，为您量身打造！</a>
-        </span>
-      
-        <span class="wrap">
-            <span id="welcome"></span>
-            <span class="login">
-                <span class="splt"></span><a class="uc_btn btn" href="/usercenter/"><i class="icon-user icon-white"></i>&nbsp;会员中心</a><span id="noti"></span>
-            </span>
-            
-            <a target="_blank" href="http://wpa.qq.com/msgrd?v=3&amp;uin=2162481273&amp;site=qq&amp;menu=yes"><img border="0" width="77" height="22" src="http://img.kuaidaili.com/img/button_21.gif" alt="留言咨询" title="留言咨询"/></a>
-        </span>
-    </div>
-    <div id="nav">
-        <ul id="menu">
-        <li id="menu_list"><a href="/">首页</a></li>
-        <li id="menu_free"><a href="/free/">免费代理</a></li>
-        <li id="menu_pricing"><a href="/pricing/">购买代理</a></li>
-        <li id="menu_ops"><a href="/dist/">开放代理</a></li>
-        <li id="menu_dps"><a href="/dps/">私密代理<span class="upper tag">热</span></a></li>
-        <li id="menu_kps"><a href="/kps/">独享代理</a></li>
-        <li id="menu_fetch" class="dropdown"><a href="javascript:void(0);">代理提取<b class="caret"></b></a>
-            <ul class="dropmenu">
-              <li><a href="/fetch/">提取开放代理</a></li>
-              <li><a href="/dps/fetch/">提取私密代理</a></li>
-            </ul>
-        </li>
-        <li id="menu_apidoc" class="dropdown"><a href="javascript:void(0);">API接口<b class="caret"></b></a>
-            <ul class="dropmenu">
-              <li><a href="/apidoc/">开放代理API</a></li>
-              <li><a href="/dps/apidoc/">私密代理API</a></li>
-            </ul>
-        </li>
-        <li id="menu_help"><a href="http://help.kuaidaili.com" target="_blank">帮助中心</a></li>
-        </ul>
-    </div>
 
-</div>
-
-
-
-
-
-<div id="container">
-
-<div>
-    <div class="c_title2 stat">
-        <h2>请选择一种产品</h2>
-    </div>
-</div>
-    <div style="overflow:hidden; clear:both;"></div>
-    <div class="tag_area" >
-        <a id="tag_ops" class="label" href="javascript:change_product('ops');">开放代理</a> 
-        <a id="tag_dps" class="label" href="javascript:change_product('dps');">私密代理</a><span class="upper">热</span>
-        <a id="tag_kps" class="label" href="javascript:change_product('kps');">独享代理</a> 
-    </div>
-    <div class="sub_tag_area">
-        <a id="subtag_day" class="badge" href="javascript:change_time('day');">包天</a>
-        <a id="subtag_week" class="badge" href="javascript:change_time('week');">包周</a>
-        <a id="subtag_month" class="badge" href="javascript:change_time('month');">包月</a>
-        <a id="subtag_year" class="badge" href="javascript:change_time('year');">包年</a>
-    </div>
-<div id="area_ops" class="row-fluid p-area">
-  <div class="row-fluid">
-  <div id="ops_normal" class="span3">
-    <div class="hero-unit price well">
-        <p class="type">普通用户</p>
-        <h1>¥<span id="ops_fee0">10</span> <span id="ops_days0" class="time">1天</span></h1>
-        <p class="btn">
-          <a class="ops_buy0" data-p="day" data-t="normal" href="javascript:void(0);">购买普通</a>
-        </p>
-        <ul class="unstyled">
-          <li><i class="i-empty info">20000+</i>每天累计代理数量</li>
-          <li><i class="i-empty info">2000+</i>实时可用代理</li>
-          <li><i class="i-empty info">无</i>套餐包含<a href="/kps" target="_blank">独享代理</a></a><span class="upper tag">新</span></li>
-          <li><i class="i-yes"></i>API支持</li>
-          <li><i class="i-empty info">999</i>一次最多提取数量</li>
-          <li><i class="i-empty info">1个</i>API允许调用IP数</li>
-          <li><i class="i-empty info">5秒1次</i>API最快调用频率</li>
-          <li><i class="i-no"></i>API支持返回json, xml</li>
-          <li class="svip"><i class="i-no"></i><a href="http://help.kuaidaili.com#faq_svipserversvip" target="_blank">SVIP专属服务器</a></a></li>
-          <li class="vip"><i class="i-no"></i><a href="http://help.kuaidaili.com/wiki/#faq_quality" target="_blank">提取精选稳定IP</a><span class="upper tag">热</span></li>
-          <li><i class="i-yes"></i>HTTPS支持<span class="upper tag">热</span></li>
-          <li><i class="i-yes"></i>HTTP POST支持<span class="upper tag">热</span></li>
-          <li><i class="i-yes"></i>高匿名筛选<span class="upper tag">热</span></li>
-          <li><i class="i-yes"></i>地区筛选</li>
-          <li><i class="i-yes"></i>端口号筛选</li>
-          <li><i class="i-yes"></i>响应速度筛选</li>
-          <li><i class="i-yes"></i>过滤提取过的IP</li>
-          <li><i class="i-yes"></i>运营商筛选</li>
-          <li><i class="i-yes"></i>IP段筛选</li>
-          <li><i class="i-yes"></i>浏览器筛选</li>
-          <li><i class="i-no"></i>IP按响应速度排序</li>
-          <li><i class="i-no"></i>提取结果字段定制</li>
-          <li><i class="i-yes"></i><a href="http://help.kuaidaili.com/#faq_notify" target="_blank">订单短信提醒</a></li>
-          <li><i class="i-no"></i>客服优先响应</li>
-          <li class="ent"><i class="i-no"></i><a href="http://help.kuaidaili.com/#faq_entsupport" target="_blank">企业版专属技术支持</a></li>
-        </ul>
-        <p class="btn">
-          <a class="buy0" data-p="day" data-t="normal" href="javascript:void(0);">购买普通</a>
-        </p>
-    </div>  
-  </div>
-
-  <div class="span3">
-    <div class="hero-unit price well">
-      <p class="type vip">VIP用户</p>
-      <h1>¥<span id="ops_fee1">20</span> <span id="ops_days1" class="time">1天</span></h1>
-      <p class="btn">
-        <a class="ops_buy1" data-p="day" data-t="vip" href="javascript:void(0);">购买VIP</a>
-      </p>
-        <ul class="unstyled">
-          <li><i class="i-empty info">20000+</i>每天累计代理数量</li>
-          <li><i class="i-empty info">2000+</i>实时可用代理</li>
-          <li><i class="i-empty info">无</i>套餐包含<a href="/kps" target="_blank">独享代理</a></a><span class="upper tag">新</span></li>
-          <li><i class="i-yes"></i>API支持</li>
-          <li><i class="i-empty info vip">不限制</i>一次最多提取数量</li>
-          <li><i class="i-empty info vip">3个</i>API允许调用IP数</li>
-          <li><i class="i-empty info vip">1秒5次</i>API最快调用频率</li>
-          <li><i class="i-yes"></i>API支持返回json, xml</li>
-          <li class="svip"><i class="i-no"></i><a href="http://help.kuaidaili.com/#faq_svipserversvip" target="_blank">SVIP专属服务器</a></a></li>
-          <li class="vip"><i class="i-yes"></i><a href="http://help.kuaidaili.com/wiki/#faq_quality" target="_blank">提取精选稳定IP</a><span class="upper tag">热</span></li>
-          <li><i class="i-yes"></i>HTTPS支持<span class="upper tag">热</span></li>
-          <li><i class="i-yes"></i>HTTP POST支持<span class="upper tag">热</span></li>
-          <li><i class="i-yes"></i>高匿名筛选<span class="upper tag">热</span></li>
-          <li><i class="i-yes"></i>地区筛选</li>
-          <li><i class="i-yes"></i>端口号筛选</li>
-          <li><i class="i-yes"></i>响应速度筛选</li>
-          <li><i class="i-yes"></i>过滤提取过的IP</li>
-          <li><i class="i-yes"></i>运营商筛选</li>
-          <li><i class="i-yes"></i>IP段筛选</li>
-          <li><i class="i-yes"></i>浏览器筛选</li>
-          <li><i class="i-yes"></i>IP按响应速度排序</li>
-          <li><i class="i-yes"></i>提取结果字段定制</li>
-          <li><i class="i-yes"></i><a href="http://help.kuaidaili.com/#faq_notify" target="_blank">订单短信提醒</a></li>
-          <li><i class="i-yes"></i>客服优先响应</li>
-          <li class="ent"><i class="i-no"></i><a href="http://help.kuaidaili.com/#faq_entsupport" target="_blank">企业版专属技术支持</a></li>
-        </ul>
-      <p class="btn">
-        <a class="buy1" data-p="day" data-t="vip" href="javascript:void(0);">购买VIP</a>
-      </p>
-    </div>  
-  </div>
-
-  <div class="span3">
-    <div class="hero-unit price well">
-      <p class="type svip">SVIP用户</p>
-      <h1>¥<span id="ops_fee2">30</span> <span id="ops_days2" class="time">1天</span></h1>
-      <p class="btn">
-        <a class="ops_buy2" data-p="day" data-t="svip" href="javascript:void(0);">购买SVIP</a>
-      </p>
-        <ul class="unstyled">
-          <li><i class="i-empty info">20000+</i>每天累计代理数量</li>
-          <li><i class="i-empty info">2000+</i>实时可用代理</li>
-          <li><i class="i-empty info">无</i>套餐包含<a href="/kps" target="_blank">独享代理</a></a><span class="upper tag">新</span></li>
-          <li><i class="i-yes"></i>API支持</li>
-          <li><i class="i-empty info svip">不限制</i>一次最多提取数量</li>
-          <li><i class="i-empty info svip">10个</i>API允许调用IP数</li>
-          <li><i class="i-empty info svip">1秒10次</i>API最快调用频率</li>
-          <li><i class="i-yes"></i>API支持返回json, xml</li>
-          <li class="svip"><i class="i-yes"></i><a href="http://help.kuaidaili.com/#faq_svipserversvip" target="_blank">SVIP专属服务器</a></a></li>
-          <li class="svip"><i class="i-yes"></i><a href="http://help.kuaidaili.com/wiki/#faq_quality" target="_blank">提取精选超稳定IP</a><span class="upper tag">热</span></li>
-          <li><i class="i-yes"></i>HTTPS支持<span class="upper tag">热</span></li>
-          <li><i class="i-yes"></i>HTTP POST支持<span class="upper tag">热</span></li>
-          <li><i class="i-yes"></i>高匿名筛选<span class="upper tag">热</span></li>
-          <li><i class="i-yes"></i>地区筛选</li>
-          <li><i class="i-yes"></i>端口号筛选</li>
-          <li><i class="i-yes"></i>响应速度筛选</li>
-          <li><i class="i-yes"></i>过滤提取过的IP</li>
-          <li><i class="i-yes"></i>运营商筛选</li>
-          <li><i class="i-yes"></i>IP段筛选</li>
-          <li><i class="i-yes"></i>浏览器筛选</li>
-          <li><i class="i-yes"></i>IP按响应速度排序</li>
-          <li><i class="i-yes"></i>提取结果字段定制</li>
-          <li><i class="i-yes"></i><a href="http://help.kuaidaili.com/#faq_notify" target="_blank">订单短信提醒</a></li>
-          <li><i class="i-yes"></i>客服优先响应</li>
-          <li class="ent"><i class="i-no"></i><a href="http://help.kuaidaili.com/#faq_entsupport" target="_blank">企业版专属技术支持</a></li>
-        </ul>
-      <p class="btn">
-        <a class="buy2" data-p="day" data-t="svip" href="javascript:void(0);">购买SVIP</a>
-      </p>
-    </div>  
-  </div>
+<div id="home" class="clearfix">
   
-  <div class="span3">
-    <div class="hero-unit price well">
-      <p class="type ent">企业版</p>
-      <h1>¥<span id="ops_fee3">60</span> <span id="ops_days3" class="time">1天</span></h1>
-      <p class="btn">
-        <a class="ops_buy3" data-p="day" data-t="ent" href="javascript:void(0);">购买企业版</a>
-      </p>
-        <ul class="unstyled">
-          <li><i class="i-empty info">20000+</i>每天累计代理数量</li>
-          <li><i class="i-empty info">2000+</i>实时可用代理</li>
-          <li><i class="i-empty info ent">10台</i>套餐包含<a href="/kps" target="_blank">独享代理</a></a><span class="upper tag">新</span></li>
-          <li><i class="i-yes"></i>API支持</li>
-          <li><i class="i-empty info ent">不限制</i>一次最多提取数量</li>
-          <li><i class="i-empty info ent">50个</i>API允许调用IP数</li>
-          <li><i class="i-empty info ent">1秒20次</i>API最快调用频率</li>
-          <li><i class="i-yes"></i>API支持返回json, xml</li>
-          <li class="ent"><i class="i-yes"></i><a href="http://help.kuaidaili.com/#faq_entserver" target="_blank">企业版专属服务器</a></a></li>
-          <li class="svip"><i class="i-yes"></i><a href="http://help.kuaidaili.com/wiki/#faq_quality" target="_blank">提取精选超稳定IP</a><span class="upper tag">热</span></li>
-          <li><i class="i-yes"></i>HTTPS支持<span class="upper tag">热</span></li>
-          <li><i class="i-yes"></i>HTTP POST支持<span class="upper tag">热</span></li>
-          <li><i class="i-yes"></i>高匿名筛选<span class="upper tag">热</span></li>
-          <li><i class="i-yes"></i>地区筛选</li>
-          <li><i class="i-yes"></i>端口号筛选</li>
-          <li><i class="i-yes"></i>响应速度筛选</li>
-          <li><i class="i-yes"></i>过滤提取过的IP</li>
-          <li><i class="i-yes"></i>运营商筛选</li>
-          <li><i class="i-yes"></i>IP段筛选</li>
-          <li><i class="i-yes"></i>浏览器筛选</li>
-          <li><i class="i-yes"></i>IP按响应速度排序</li>
-          <li><i class="i-yes"></i>提取结果字段定制</li>
-          <li><i class="i-yes"></i><a href="http://help.kuaidaili.com/#faq_notify" target="_blank">订单短信提醒</a></li>
-          <li><i class="i-yes"></i>客服优先响应</li>
-          <li class="ent"><i class="i-yes"></i><a href="http://help.kuaidaili.com/#faq_entsupport" target="_blank">企业版专属技术支持</a></li>
-        </ul>
-      <p class="btn">
-        <a class="buy3" data-p="day" data-t="ent" href="javascript:void(0);">购买企业版</a>
-      </p>
-    </div>  
-  </div>
-  </div>
+  
+  <div class="main">
 
-  <div class="alert alert-success" style=""><strong>重要提示：</strong>开放代理适合对代理IP数量需求非常大，但能接受一定程度不稳定的客户</div>
-</div>
+    <table id="ip_list">
+      <tr>
+  <th colspan="8"> <h2>国内高匿代理IP</h2>
+      <a class="more" href="/nn">更多</a></th>
+</tr>
+  <tr class="subtitle">
+    <th class="country">国家</th>
+    <th>代理IP地址</th>
+    <th>端口</th>
+    <th width="20%">服务器地址</th>
+    <th class="country">是否匿名</th>
+    <th>类型</th>
+          <th width="11%">存活时间</th>
+    <th width="12%">验证时间</th>
+  </tr>
+  
+  <tr class="odd">
+    <td class="country"><img src="http://fs.xicidaili.com/images/flag/cn.png" alt="Cn" /></td>
+    <td>111.76.129.238</td>
+    <td>808</td>
+    <td>江西新余</td>
+    <td class="country">高匿</td>
+    <td>HTTP</td>
+      <td>75天</td>
+    <td>2分钟前</td>
+  </tr>
+  
+  <tr class="">
+    <td class="country"><img src="http://fs.xicidaili.com/images/flag/cn.png" alt="Cn" /></td>
+    <td>180.76.154.5</td>
+    <td>8888</td>
+    <td>北京</td>
+    <td class="country">高匿</td>
+    <td>HTTP</td>
+      <td>35天</td>
+    <td>4分钟前</td>
+  </tr>
+  
+  <tr class="odd">
+    <td class="country"><img src="http://fs.xicidaili.com/images/flag/cn.png" alt="Cn" /></td>
+    <td>115.48.13.7</td>
+    <td>80</td>
+    <td>河南信阳</td>
+    <td class="country">高匿</td>
+    <td>HTTP</td>
+      <td>4小时</td>
+    <td>5分钟前</td>
+  </tr>
+  
+  <tr class="">
+    <td class="country"><img src="http://fs.xicidaili.com/images/flag/cn.png" alt="Cn" /></td>
+    <td>61.191.173.31</td>
+    <td>808</td>
+    <td>安徽淮南</td>
+    <td class="country">高匿</td>
+    <td>HTTP</td>
+      <td>2天</td>
+    <td>5分钟前</td>
+  </tr>
+  
+  <tr class="odd">
+    <td class="country"><img src="http://fs.xicidaili.com/images/flag/cn.png" alt="Cn" /></td>
+    <td>221.216.94.77</td>
+    <td>808</td>
+    <td>北京</td>
+    <td class="country">高匿</td>
+    <td>HTTP</td>
+      <td>17天</td>
+    <td>5分钟前</td>
+  </tr>
+  
+  <tr class="">
+    <td class="country"><img src="http://fs.xicidaili.com/images/flag/cn.png" alt="Cn" /></td>
+    <td>223.9.65.68</td>
+    <td>8118</td>
+    <td>山西</td>
+    <td class="country">高匿</td>
+    <td>HTTP</td>
+      <td>2分钟</td>
+    <td>6分钟前</td>
+  </tr>
+  
+  <tr class="odd">
+    <td class="country"><img src="http://fs.xicidaili.com/images/flag/cn.png" alt="Cn" /></td>
+    <td>222.94.131.220</td>
+    <td>808</td>
+    <td>江苏南京</td>
+    <td class="country">高匿</td>
+    <td>HTTP</td>
+      <td>1分钟</td>
+    <td>9分钟前</td>
+  </tr>
+  
+  <tr class="">
+    <td class="country"><img src="http://fs.xicidaili.com/images/flag/cn.png" alt="Cn" /></td>
+    <td>114.239.3.248</td>
+    <td>808</td>
+    <td>江苏宿迁</td>
+    <td class="country">高匿</td>
+    <td>HTTP</td>
+      <td>1分钟</td>
+    <td>9分钟前</td>
+  </tr>
+  
+  <tr class="odd">
+    <td class="country"><img src="http://fs.xicidaili.com/images/flag/cn.png" alt="Cn" /></td>
+    <td>59.63.123.150</td>
+    <td>808</td>
+    <td>江西南昌</td>
+    <td class="country">高匿</td>
+    <td>HTTP</td>
+      <td>3天</td>
+    <td>9分钟前</td>
+  </tr>
+  
+  <tr class="">
+    <td class="country"><img src="http://fs.xicidaili.com/images/flag/cn.png" alt="Cn" /></td>
+    <td>59.63.123.226</td>
+    <td>808</td>
+    <td>江西南昌</td>
+    <td class="country">高匿</td>
+    <td>HTTP</td>
+      <td>36天</td>
+    <td>9分钟前</td>
+  </tr>
+  
+  <tr class="odd">
+    <td class="country"><img src="http://fs.xicidaili.com/images/flag/cn.png" alt="Cn" /></td>
+    <td>218.5.195.136</td>
+    <td>8998</td>
+    <td>福建漳州</td>
+    <td class="country">高匿</td>
+    <td>HTTP</td>
+      <td>2天</td>
+    <td>10分钟前</td>
+  </tr>
+  
+  <tr class="">
+    <td class="country"><img src="http://fs.xicidaili.com/images/flag/cn.png" alt="Cn" /></td>
+    <td>59.63.123.18</td>
+    <td>808</td>
+    <td>江西南昌</td>
+    <td class="country">高匿</td>
+    <td>HTTP</td>
+      <td>3天</td>
+    <td>11分钟前</td>
+  </tr>
+  
+  <tr class="odd">
+    <td class="country"><img src="http://fs.xicidaili.com/images/flag/cn.png" alt="Cn" /></td>
+    <td>221.232.158.226</td>
+    <td>63000</td>
+    <td>湖北武汉</td>
+    <td class="country">高匿</td>
+    <td>HTTP</td>
+      <td>10天</td>
+    <td>13分钟前</td>
+  </tr>
+  
+  <tr class="">
+    <td class="country"><img src="http://fs.xicidaili.com/images/flag/cn.png" alt="Cn" /></td>
+    <td>110.73.11.5</td>
+    <td>8123</td>
+    <td>广西防城港</td>
+    <td class="country">高匿</td>
+    <td>HTTP</td>
+      <td>463天</td>
+    <td>14分钟前</td>
+  </tr>
+  
+  <tr class="odd">
+    <td class="country"><img src="http://fs.xicidaili.com/images/flag/cn.png" alt="Cn" /></td>
+    <td>180.167.34.187</td>
+    <td>80</td>
+    <td>上海</td>
+    <td class="country">高匿</td>
+    <td>HTTP</td>
+      <td>2天</td>
+    <td>15分钟前</td>
+  </tr>
+  
+  <tr class="">
+    <td class="country"><img src="http://fs.xicidaili.com/images/flag/cn.png" alt="Cn" /></td>
+    <td>221.229.45.57</td>
+    <td>808</td>
+    <td>江苏扬州</td>
+    <td class="country">高匿</td>
+    <td>HTTP</td>
+      <td>1分钟</td>
+    <td>17分钟前</td>
+  </tr>
+  
+  <tr class="odd">
+    <td class="country"><img src="http://fs.xicidaili.com/images/flag/cn.png" alt="Cn" /></td>
+    <td>115.225.73.170</td>
+    <td>8998</td>
+    <td>浙江绍兴</td>
+    <td class="country">高匿</td>
+    <td>HTTP</td>
+      <td>1分钟</td>
+    <td>17分钟前</td>
+  </tr>
+  
+  <tr class="">
+    <td class="country"><img src="http://fs.xicidaili.com/images/flag/cn.png" alt="Cn" /></td>
+    <td>27.18.171.58</td>
+    <td>808</td>
+    <td>湖北武汉</td>
+    <td class="country">高匿</td>
+    <td>HTTP</td>
+      <td>1分钟</td>
+    <td>17分钟前</td>
+  </tr>
+  
+  <tr class="odd">
+    <td class="country"><img src="http://fs.xicidaili.com/images/flag/cn.png" alt="Cn" /></td>
+    <td>60.183.221.34</td>
+    <td>808</td>
+    <td>浙江绍兴</td>
+    <td class="country">高匿</td>
+    <td>HTTP</td>
+      <td>1分钟</td>
+    <td>17分钟前</td>
+  </tr>
+  
+  <tr class="">
+    <td class="country"><img src="http://fs.xicidaili.com/images/flag/cn.png" alt="Cn" /></td>
+    <td>183.32.89.60</td>
+    <td>808</td>
+    <td>广东中山</td>
+    <td class="country">高匿</td>
+    <td>HTTP</td>
+      <td>1分钟</td>
+    <td>18分钟前</td>
+  </tr>
+  
+  
 
-<div id="area_dps" class="p-area" style="display:none;">
-  <div class="row-fluid">
+      <tr>
+  <th colspan="8"> <h2>国内透明代理IP</h2>
+      <a class="more" href="/nt">更多</a></th>
+</tr>
+  <tr class="subtitle">
+    <th class="country">国家</th>
+    <th>代理IP地址</th>
+    <th>端口</th>
+    <th width="20%">服务器地址</th>
+    <th class="country">是否匿名</th>
+    <th>类型</th>
+          <th width="11%">存活时间</th>
+    <th width="12%">验证时间</th>
+  </tr>
+  
+  <tr class="odd">
+    <td class="country"><img src="http://fs.xicidaili.com/images/flag/cn.png" alt="Cn" /></td>
+    <td>211.81.31.18</td>
+    <td>8081</td>
+    <td>天津</td>
+    <td class="country">透明</td>
+    <td>HTTP</td>
+      <td>11天</td>
+    <td>22分钟前</td>
+  </tr>
+  
+  <tr class="">
+    <td class="country"><img src="http://fs.xicidaili.com/images/flag/cn.png" alt="Cn" /></td>
+    <td>115.231.175.68</td>
+    <td>8081</td>
+    <td>浙江杭州</td>
+    <td class="country">透明</td>
+    <td>HTTP</td>
+      <td>87天</td>
+    <td>22分钟前</td>
+  </tr>
+  
+  <tr class="odd">
+    <td class="country"><img src="http://fs.xicidaili.com/images/flag/cn.png" alt="Cn" /></td>
+    <td>60.191.163.147</td>
+    <td>3128</td>
+    <td>浙江台州</td>
+    <td class="country">透明</td>
+    <td>HTTPS</td>
+      <td>550天</td>
+    <td>26分钟前</td>
+  </tr>
+  
+  <tr class="">
+    <td class="country"><img src="http://fs.xicidaili.com/images/flag/cn.png" alt="Cn" /></td>
+    <td>61.155.91.3</td>
+    <td>8080</td>
+    <td>江苏苏州市张家港</td>
+    <td class="country">透明</td>
+    <td>HTTPS</td>
+      <td>696天</td>
+    <td>35分钟前</td>
+  </tr>
+  
+  <tr class="odd">
+    <td class="country"><img src="http://fs.xicidaili.com/images/flag/cn.png" alt="Cn" /></td>
+    <td>116.62.45.185</td>
+    <td>3128</td>
+    <td>广东肇庆</td>
+    <td class="country">透明</td>
+    <td>HTTP</td>
+      <td>50天</td>
+    <td>40分钟前</td>
+  </tr>
+  
+  <tr class="">
+    <td class="country"><img src="http://fs.xicidaili.com/images/flag/cn.png" alt="Cn" /></td>
+    <td>124.88.67.7</td>
+    <td>80</td>
+    <td>新疆乌鲁木齐</td>
+    <td class="country">透明</td>
+    <td>HTTP</td>
+      <td>732天</td>
+    <td>41分钟前</td>
+  </tr>
+  
+  <tr class="odd">
+    <td class="country"><img src="http://fs.xicidaili.com/images/flag/cn.png" alt="Cn" /></td>
+    <td>121.204.165.115</td>
+    <td>8118</td>
+    <td>福建厦门</td>
+    <td class="country">透明</td>
+    <td>HTTP</td>
+      <td>183天</td>
+    <td>1小时前</td>
+  </tr>
+  
+  <tr class="">
+    <td class="country"><img src="http://fs.xicidaili.com/images/flag/cn.png" alt="Cn" /></td>
+    <td>113.200.214.162</td>
+    <td>9999</td>
+    <td>陕西西安</td>
+    <td class="country">透明</td>
+    <td>HTTP</td>
+      <td>469天</td>
+    <td>2小时前</td>
+  </tr>
+  
+  <tr class="odd">
+    <td class="country"><img src="http://fs.xicidaili.com/images/flag/cn.png" alt="Cn" /></td>
+    <td>218.29.111.106</td>
+    <td>9999</td>
+    <td>河南郑州</td>
+    <td class="country">透明</td>
+    <td>HTTPS</td>
+      <td>730天</td>
+    <td>3小时前</td>
+  </tr>
+  
+  <tr class="">
+    <td class="country"><img src="http://fs.xicidaili.com/images/flag/cn.png" alt="Cn" /></td>
+    <td>61.180.242.238</td>
+    <td>8123</td>
+    <td>黑龙江哈尔滨</td>
+    <td class="country">透明</td>
+    <td>HTTP</td>
+      <td>1分钟</td>
+    <td>3小时前</td>
+  </tr>
+  
+  <tr class="odd">
+    <td class="country"><img src="http://fs.xicidaili.com/images/flag/cn.png" alt="Cn" /></td>
+    <td>222.74.225.231</td>
+    <td>3128</td>
+    <td>内蒙古呼和浩特</td>
+    <td class="country">透明</td>
+    <td>HTTP</td>
+      <td>3天</td>
+    <td>3小时前</td>
+  </tr>
+  
+  <tr class="">
+    <td class="country"><img src="http://fs.xicidaili.com/images/flag/cn.png" alt="Cn" /></td>
+    <td>124.88.67.54</td>
+    <td>80</td>
+    <td>新疆乌鲁木齐</td>
+    <td class="country">透明</td>
+    <td>HTTP</td>
+      <td>736天</td>
+    <td>3小时前</td>
+  </tr>
+  
+  <tr class="odd">
+    <td class="country"><img src="http://fs.xicidaili.com/images/flag/cn.png" alt="Cn" /></td>
+    <td>183.63.14.107</td>
+    <td>808</td>
+    <td>广东珠海</td>
+    <td class="country">透明</td>
+    <td>HTTP</td>
+      <td>367天</td>
+    <td>4小时前</td>
+  </tr>
+  
+  <tr class="">
+    <td class="country"><img src="http://fs.xicidaili.com/images/flag/cn.png" alt="Cn" /></td>
+    <td>106.120.175.76</td>
+    <td>55336</td>
+    <td>广东</td>
+    <td class="country">透明</td>
+    <td>HTTP</td>
+      <td>1天</td>
+    <td>6小时前</td>
+  </tr>
+  
+  <tr class="odd">
+    <td class="country"><img src="http://fs.xicidaili.com/images/flag/cn.png" alt="Cn" /></td>
+    <td>61.162.223.41</td>
+    <td>9797</td>
+    <td>山东日照</td>
+    <td class="country">透明</td>
+    <td>HTTP</td>
+      <td>733天</td>
+    <td>7小时前</td>
+  </tr>
+  
+  <tr class="">
+    <td class="country"><img src="http://fs.xicidaili.com/images/flag/cn.png" alt="Cn" /></td>
+    <td>115.220.205.205</td>
+    <td>808</td>
+    <td>浙江宁波</td>
+    <td class="country">透明</td>
+    <td>HTTP</td>
+      <td>1分钟</td>
+    <td>7小时前</td>
+  </tr>
+  
+  <tr class="odd">
+    <td class="country"><img src="http://fs.xicidaili.com/images/flag/cn.png" alt="Cn" /></td>
+    <td>218.56.132.158</td>
+    <td>8080</td>
+    <td>山东临沂</td>
+    <td class="country">透明</td>
+    <td>HTTP</td>
+      <td>684天</td>
+    <td>7小时前</td>
+  </tr>
+  
+  <tr class="">
+    <td class="country"><img src="http://fs.xicidaili.com/images/flag/cn.png" alt="Cn" /></td>
+    <td>60.190.96.190</td>
+    <td>808</td>
+    <td>浙江温州</td>
+    <td class="country">透明</td>
+    <td>HTTP</td>
+      <td>532天</td>
+    <td>7小时前</td>
+  </tr>
+  
+  <tr class="odd">
+    <td class="country"><img src="http://fs.xicidaili.com/images/flag/cn.png" alt="Cn" /></td>
+    <td>113.200.156.53</td>
+    <td>9999</td>
+    <td>陕西西安</td>
+    <td class="country">透明</td>
+    <td>HTTP</td>
+      <td>36天</td>
+    <td>8小时前</td>
+  </tr>
+  
+  <tr class="">
+    <td class="country"><img src="http://fs.xicidaili.com/images/flag/cn.png" alt="Cn" /></td>
+    <td>113.25.144.201</td>
+    <td>9797</td>
+    <td>山西</td>
+    <td class="country">透明</td>
+    <td>HTTP</td>
+      <td>1分钟</td>
+    <td>9小时前</td>
+  </tr>
+  
+  
+
+    <tr>
+  <th colspan="8"> <h2>HTTPS代理IP</h2>
+      <a class="more" href="/wn">更多</a></th>
+</tr>
+  <tr class="subtitle">
+    <th class="country">国家</th>
+    <th>代理IP地址</th>
+    <th>端口</th>
+    <th width="20%">服务器地址</th>
+    <th class="country">是否匿名</th>
+    <th>类型</th>
+          <th width="11%">存活时间</th>
+    <th width="12%">验证时间</th>
+  </tr>
+  
+  <tr class="odd">
+    <td class="country"><img src="http://fs.xicidaili.com/images/flag/cn.png" alt="Cn" /></td>
+    <td>60.191.163.147</td>
+    <td>3128</td>
+    <td>浙江台州</td>
+    <td class="country">透明</td>
+    <td>HTTPS</td>
+      <td>550天</td>
+    <td>24分钟前</td>
+  </tr>
+  
+  <tr class="">
+    <td class="country"><img src="http://fs.xicidaili.com/images/flag/cn.png" alt="Cn" /></td>
+    <td>61.155.91.3</td>
+    <td>8080</td>
+    <td>江苏苏州市张家港</td>
+    <td class="country">透明</td>
+    <td>HTTPS</td>
+      <td>696天</td>
+    <td>34分钟前</td>
+  </tr>
+  
+  <tr class="odd">
+    <td class="country"><img src="http://fs.xicidaili.com/images/flag/cn.png" alt="Cn" /></td>
+    <td>218.29.111.106</td>
+    <td>9999</td>
+    <td>河南郑州</td>
+    <td class="country">透明</td>
+    <td>HTTPS</td>
+      <td>730天</td>
+    <td>3小时前</td>
+  </tr>
+  
+  <tr class="">
+    <td class="country"><img src="http://fs.xicidaili.com/images/flag/cn.png" alt="Cn" /></td>
+    <td>221.237.155.64</td>
+    <td>9797</td>
+    <td>四川成都</td>
+    <td class="country">透明</td>
+    <td>HTTPS</td>
+      <td>680天</td>
+    <td>3 天</td>
+  </tr>
+  
+  <tr class="odd">
+    <td class="country"><img src="http://fs.xicidaili.com/images/flag/cn.png" alt="Cn" /></td>
+    <td>221.237.154.57</td>
+    <td>9797</td>
+    <td>四川成都</td>
+    <td class="country">透明</td>
+    <td>HTTPS</td>
+      <td>673天</td>
+    <td>5 天</td>
+  </tr>
+  
+  <tr class="">
+    <td class="country"><img src="http://fs.xicidaili.com/images/flag/cn.png" alt="Cn" /></td>
+    <td>113.108.253.195</td>
+    <td>9797</td>
+    <td>广东广州</td>
+    <td class="country">透明</td>
+    <td>HTTPS</td>
+      <td>597天</td>
+    <td>5 天</td>
+  </tr>
+  
+  <tr class="odd">
+    <td class="country"><img src="http://fs.xicidaili.com/images/flag/cn.png" alt="Cn" /></td>
+    <td>27.191.234.69</td>
+    <td>9999</td>
+    <td>河北唐山</td>
+    <td class="country">透明</td>
+    <td>HTTPS</td>
+      <td>539天</td>
+    <td>5 天</td>
+  </tr>
+  
+  <tr class="">
+    <td class="country"><img src="http://fs.xicidaili.com/images/flag/cn.png" alt="Cn" /></td>
+    <td>58.59.68.91</td>
+    <td>9797</td>
+    <td>山东</td>
+    <td class="country">透明</td>
+    <td>HTTPS</td>
+      <td>685天</td>
+    <td>5 天</td>
+  </tr>
+  
+  <tr class="odd">
+    <td class="country"><img src="http://fs.xicidaili.com/images/flag/cn.png" alt="Cn" /></td>
+    <td>112.91.208.78</td>
+    <td>9999</td>
+    <td>广东河源</td>
+    <td class="country">透明</td>
+    <td>HTTPS</td>
+      <td>627天</td>
+    <td>8 天</td>
+  </tr>
+  
+  <tr class="">
+    <td class="country"><img src="http://fs.xicidaili.com/images/flag/cn.png" alt="Cn" /></td>
+    <td>219.150.242.54</td>
+    <td>9999</td>
+    <td>河南南阳</td>
+    <td class="country">透明</td>
+    <td>HTTPS</td>
+      <td>1103天</td>
+    <td>8 天</td>
+  </tr>
+  
+  <tr class="odd">
+    <td class="country"><img src="http://fs.xicidaili.com/images/flag/cn.png" alt="Cn" /></td>
+    <td>202.99.172.165</td>
+    <td>8081</td>
+    <td>河北邢台</td>
+    <td class="country">透明</td>
+    <td>HTTPS</td>
+      <td>1318天</td>
+    <td>10 天</td>
+  </tr>
+  
+  <tr class="">
+    <td class="country"><img src="http://fs.xicidaili.com/images/flag/cn.png" alt="Cn" /></td>
+    <td>101.231.46.34</td>
+    <td>8000</td>
+    <td>上海</td>
+    <td class="country">高匿</td>
+    <td>HTTPS</td>
+      <td>591天</td>
+    <td>11 天</td>
+  </tr>
+  
+  <tr class="odd">
+    <td class="country"><img src="http://fs.xicidaili.com/images/flag/cn.png" alt="Cn" /></td>
+    <td>58.67.159.50</td>
+    <td>80</td>
+    <td>广西桂林</td>
+    <td class="country">透明</td>
+    <td>HTTPS</td>
+      <td>705天</td>
+    <td>13 天</td>
+  </tr>
+  
+  <tr class="">
+    <td class="country"><img src="http://fs.xicidaili.com/images/flag/cn.png" alt="Cn" /></td>
+    <td>123.13.205.185</td>
+    <td>8080</td>
+    <td>河南许昌</td>
+    <td class="country">透明</td>
+    <td>HTTPS</td>
+      <td>1277天</td>
+    <td>14 天</td>
+  </tr>
+  
+  <tr class="odd">
+    <td class="country"><img src="http://fs.xicidaili.com/images/flag/cn.png" alt="Cn" /></td>
+    <td>163.125.198.53</td>
+    <td>8888</td>
+    <td>广东深圳</td>
+    <td class="country">透明</td>
+    <td>HTTPS</td>
+      <td>1258天</td>
+    <td>23 天</td>
+  </tr>
+  
+  <tr class="">
+    <td class="country"><img src="http://fs.xicidaili.com/images/flag/cn.png" alt="Cn" /></td>
+    <td>59.44.244.14</td>
+    <td>9797</td>
+    <td>辽宁铁岭</td>
+    <td class="country">透明</td>
+    <td>HTTPS</td>
+      <td>613天</td>
+    <td>26 天</td>
+  </tr>
+  
+  <tr class="odd">
+    <td class="country"><img src="http://fs.xicidaili.com/images/flag/cn.png" alt="Cn" /></td>
+    <td>27.46.21.67</td>
+    <td>9999</td>
+    <td>广东深圳</td>
+    <td class="country">透明</td>
+    <td>HTTPS</td>
+      <td>1105天</td>
+    <td>28 天</td>
+  </tr>
+  
+  <tr class="">
+    <td class="country"><img src="http://fs.xicidaili.com/images/flag/cn.png" alt="Cn" /></td>
+    <td>222.41.113.43</td>
+    <td>8080</td>
+    <td>陕西西安</td>
+    <td class="country">透明</td>
+    <td>HTTPS</td>
+      <td>645天</td>
+    <td>28 天</td>
+  </tr>
+  
+  <tr class="odd">
+    <td class="country"><img src="http://fs.xicidaili.com/images/flag/cn.png" alt="Cn" /></td>
+    <td>58.221.190.50</td>
+    <td>80</td>
+    <td>江苏南通</td>
+    <td class="country">高匿</td>
+    <td>HTTPS</td>
+      <td>821天</td>
+    <td>1 月前</td>
+  </tr>
+  
+  <tr class="">
+    <td class="country"><img src="http://fs.xicidaili.com/images/flag/cn.png" alt="Cn" /></td>
+    <td>163.125.156.65</td>
+    <td>8888</td>
+    <td>广东深圳</td>
+    <td class="country">透明</td>
+    <td>HTTPS</td>
+      <td>884天</td>
+    <td>1 月前</td>
+  </tr>
+  
+  
+
+    <tr>
+  <th colspan="8"> <h2>HTTP代理IP</h2>
+      <a class="more" href="/wt">更多</a></th>
+</tr>
+  <tr class="subtitle">
+    <th class="country">国家</th>
+    <th>代理IP地址</th>
+    <th>端口</th>
+    <th width="20%">服务器地址</th>
+    <th class="country">是否匿名</th>
+    <th>类型</th>
+          <th width="11%">存活时间</th>
+    <th width="12%">验证时间</th>
+  </tr>
+  
+  <tr class="odd">
+    <td class="country"><img src="http://fs.xicidaili.com/images/flag/cn.png" alt="Cn" /></td>
+    <td>111.76.129.238</td>
+    <td>808</td>
+    <td>江西新余</td>
+    <td class="country">高匿</td>
+    <td>HTTP</td>
+      <td>75天</td>
+    <td>1分钟前</td>
+  </tr>
+  
+  <tr class="">
+    <td class="country"><img src="http://fs.xicidaili.com/images/flag/cn.png" alt="Cn" /></td>
+    <td>180.76.154.5</td>
+    <td>8888</td>
+    <td>北京</td>
+    <td class="country">高匿</td>
+    <td>HTTP</td>
+      <td>35天</td>
+    <td>3分钟前</td>
+  </tr>
+  
+  <tr class="odd">
+    <td class="country"><img src="http://fs.xicidaili.com/images/flag/cn.png" alt="Cn" /></td>
+    <td>115.48.13.7</td>
+    <td>80</td>
+    <td>河南信阳</td>
+    <td class="country">高匿</td>
+    <td>HTTP</td>
+      <td>4小时</td>
+    <td>3分钟前</td>
+  </tr>
+  
+  <tr class="">
+    <td class="country"><img src="http://fs.xicidaili.com/images/flag/cn.png" alt="Cn" /></td>
+    <td>61.191.173.31</td>
+    <td>808</td>
+    <td>安徽淮南</td>
+    <td class="country">高匿</td>
+    <td>HTTP</td>
+      <td>2天</td>
+    <td>3分钟前</td>
+  </tr>
+  
+  <tr class="odd">
+    <td class="country"><img src="http://fs.xicidaili.com/images/flag/cn.png" alt="Cn" /></td>
+    <td>221.216.94.77</td>
+    <td>808</td>
+    <td>北京</td>
+    <td class="country">高匿</td>
+    <td>HTTP</td>
+      <td>17天</td>
+    <td>3分钟前</td>
+  </tr>
+  
+  <tr class="">
+    <td class="country"><img src="http://fs.xicidaili.com/images/flag/cn.png" alt="Cn" /></td>
+    <td>223.9.65.68</td>
+    <td>8118</td>
+    <td>山西</td>
+    <td class="country">高匿</td>
+    <td>HTTP</td>
+      <td>2分钟</td>
+    <td>4分钟前</td>
+  </tr>
+  
+  <tr class="odd">
+    <td class="country"><img src="http://fs.xicidaili.com/images/flag/cn.png" alt="Cn" /></td>
+    <td>222.94.131.220</td>
+    <td>808</td>
+    <td>江苏南京</td>
+    <td class="country">高匿</td>
+    <td>HTTP</td>
+      <td>1分钟</td>
+    <td>7分钟前</td>
+  </tr>
+  
+  <tr class="">
+    <td class="country"><img src="http://fs.xicidaili.com/images/flag/cn.png" alt="Cn" /></td>
+    <td>114.239.3.248</td>
+    <td>808</td>
+    <td>江苏宿迁</td>
+    <td class="country">高匿</td>
+    <td>HTTP</td>
+      <td>1分钟</td>
+    <td>7分钟前</td>
+  </tr>
+  
+  <tr class="odd">
+    <td class="country"><img src="http://fs.xicidaili.com/images/flag/cn.png" alt="Cn" /></td>
+    <td>59.63.123.150</td>
+    <td>808</td>
+    <td>江西南昌</td>
+    <td class="country">高匿</td>
+    <td>HTTP</td>
+      <td>3天</td>
+    <td>7分钟前</td>
+  </tr>
+  
+  <tr class="">
+    <td class="country"><img src="http://fs.xicidaili.com/images/flag/cn.png" alt="Cn" /></td>
+    <td>59.63.123.226</td>
+    <td>808</td>
+    <td>江西南昌</td>
+    <td class="country">高匿</td>
+    <td>HTTP</td>
+      <td>36天</td>
+    <td>7分钟前</td>
+  </tr>
+  
+  <tr class="odd">
+    <td class="country"><img src="http://fs.xicidaili.com/images/flag/cn.png" alt="Cn" /></td>
+    <td>218.5.195.136</td>
+    <td>8998</td>
+    <td>福建漳州</td>
+    <td class="country">高匿</td>
+    <td>HTTP</td>
+      <td>2天</td>
+    <td>8分钟前</td>
+  </tr>
+  
+  <tr class="">
+    <td class="country"><img src="http://fs.xicidaili.com/images/flag/cn.png" alt="Cn" /></td>
+    <td>59.63.123.18</td>
+    <td>808</td>
+    <td>江西南昌</td>
+    <td class="country">高匿</td>
+    <td>HTTP</td>
+      <td>3天</td>
+    <td>10分钟前</td>
+  </tr>
+  
+  <tr class="odd">
+    <td class="country"><img src="http://fs.xicidaili.com/images/flag/cn.png" alt="Cn" /></td>
+    <td>221.232.158.226</td>
+    <td>63000</td>
+    <td>湖北武汉</td>
+    <td class="country">高匿</td>
+    <td>HTTP</td>
+      <td>10天</td>
+    <td>11分钟前</td>
+  </tr>
+  
+  <tr class="">
+    <td class="country"><img src="http://fs.xicidaili.com/images/flag/cn.png" alt="Cn" /></td>
+    <td>110.73.11.5</td>
+    <td>8123</td>
+    <td>广西防城港</td>
+    <td class="country">高匿</td>
+    <td>HTTP</td>
+      <td>463天</td>
+    <td>12分钟前</td>
+  </tr>
+  
+  <tr class="odd">
+    <td class="country"><img src="http://fs.xicidaili.com/images/flag/cn.png" alt="Cn" /></td>
+    <td>180.167.34.187</td>
+    <td>80</td>
+    <td>上海</td>
+    <td class="country">高匿</td>
+    <td>HTTP</td>
+      <td>2天</td>
+    <td>13分钟前</td>
+  </tr>
+  
+  <tr class="">
+    <td class="country"><img src="http://fs.xicidaili.com/images/flag/cn.png" alt="Cn" /></td>
+    <td>221.229.45.57</td>
+    <td>808</td>
+    <td>江苏扬州</td>
+    <td class="country">高匿</td>
+    <td>HTTP</td>
+      <td>1分钟</td>
+    <td>15分钟前</td>
+  </tr>
+  
+  <tr class="odd">
+    <td class="country"><img src="http://fs.xicidaili.com/images/flag/cn.png" alt="Cn" /></td>
+    <td>115.225.73.170</td>
+    <td>8998</td>
+    <td>浙江绍兴</td>
+    <td class="country">高匿</td>
+    <td>HTTP</td>
+      <td>1分钟</td>
+    <td>15分钟前</td>
+  </tr>
+  
+  <tr class="">
+    <td class="country"><img src="http://fs.xicidaili.com/images/flag/cn.png" alt="Cn" /></td>
+    <td>27.18.171.58</td>
+    <td>808</td>
+    <td>湖北武汉</td>
+    <td class="country">高匿</td>
+    <td>HTTP</td>
+      <td>1分钟</td>
+    <td>16分钟前</td>
+  </tr>
+  
+  <tr class="odd">
+    <td class="country"><img src="http://fs.xicidaili.com/images/flag/cn.png" alt="Cn" /></td>
+    <td>60.183.221.34</td>
+    <td>808</td>
+    <td>浙江绍兴</td>
+    <td class="country">高匿</td>
+    <td>HTTP</td>
+      <td>1分钟</td>
+    <td>16分钟前</td>
+  </tr>
+  
+  <tr class="">
+    <td class="country"><img src="http://fs.xicidaili.com/images/flag/cn.png" alt="Cn" /></td>
+    <td>183.32.89.60</td>
+    <td>808</td>
+    <td>广东中山</td>
+    <td class="country">高匿</td>
+    <td>HTTP</td>
+      <td>1分钟</td>
+    <td>16分钟前</td>
+  </tr>
+  
+  
+
+    <tr>
+  <th colspan="8"> <h2>SOCKS IP代理</h2>
+      <a class="more" href="/qq">更多</a></th>
+</tr>
+  <tr class="subtitle">
+    <th class="country">国家</th>
+    <th>代理IP地址</th>
+    <th>端口</th>
+    <th width="20%">服务器地址</th>
+    <th class="country">是否匿名</th>
+    <th>类型</th>
+          <th width="11%">存活时间</th>
+    <th width="12%">验证时间</th>
+  </tr>
+  
+  <tr class="odd">
+    <td class="country"><img src="http://fs.xicidaili.com/images/flag/cn.png" alt="Cn" /></td>
+    <td>114.139.48.8</td>
+    <td>6668</td>
+    <td>贵州遵义</td>
+    <td class="country">高匿</td>
+    <td>socks4/5</td>
+      <td>1458天</td>
+    <td>1 月前</td>
+  </tr>
+  
+  <tr class="">
+    <td class="country"><img src="http://fs.xicidaili.com/images/flag/cn.png" alt="Cn" /></td>
+    <td>111.124.231.101</td>
+    <td>6668</td>
+    <td>贵州铜仁地区铜仁</td>
+    <td class="country">高匿</td>
+    <td>socks4/5</td>
+      <td>1416天</td>
+    <td>2 月前</td>
+  </tr>
+  
+  <tr class="odd">
+    <td class="country"><img src="http://fs.xicidaili.com/images/flag/cn.png" alt="Cn" /></td>
+    <td>118.80.181.186</td>
+    <td>6675</td>
+    <td>山西阳泉</td>
+    <td class="country">高匿</td>
+    <td>socks4/5</td>
+      <td>1476天</td>
+    <td>2 月前</td>
+  </tr>
+  
+  <tr class="">
+    <td class="country"><img src="http://fs.xicidaili.com/images/flag/cn.png" alt="Cn" /></td>
+    <td>113.122.42.161</td>
+    <td>6675</td>
+    <td>山东菏泽</td>
+    <td class="country">高匿</td>
+    <td>socks4/5</td>
+      <td>1366天</td>
+    <td>2 月前</td>
+  </tr>
+  
+  <tr class="odd">
+    <td class="country"><img src="http://fs.xicidaili.com/images/flag/cn.png" alt="Cn" /></td>
+    <td>60.211.17.10</td>
+    <td>6675</td>
+    <td>山东德州</td>
+    <td class="country">高匿</td>
+    <td>socks4/5</td>
+      <td>1471天</td>
+    <td>2 月前</td>
+  </tr>
+  
+  <tr class="">
+    <td class="country"><img src="http://fs.xicidaili.com/images/flag/cn.png" alt="Cn" /></td>
+    <td>110.72.20.245</td>
+    <td>6673</td>
+    <td>广西贵港</td>
+    <td class="country">高匿</td>
+    <td>socks4/5</td>
+      <td>1466天</td>
+    <td>3 月前</td>
+  </tr>
+  
+  <tr class="odd">
+    <td class="country"><img src="http://fs.xicidaili.com/images/flag/cn.png" alt="Cn" /></td>
+    <td>110.73.33.207</td>
+    <td>6673</td>
+    <td>广西防城港</td>
+    <td class="country">高匿</td>
+    <td>socks4/5</td>
+      <td>1415天</td>
+    <td>3 月前</td>
+  </tr>
+  
+  <tr class="">
+    <td class="country"><img src="http://fs.xicidaili.com/images/flag/cn.png" alt="Cn" /></td>
+    <td>122.89.138.20</td>
+    <td>6675</td>
+    <td>江苏徐州</td>
+    <td class="country">高匿</td>
+    <td>socks4/5</td>
+      <td>1258天</td>
+    <td>10 月前</td>
+  </tr>
+  
+  <tr class="odd">
+    <td class="country"><img src="http://fs.xicidaili.com/images/flag/cn.png" alt="Cn" /></td>
+    <td>61.138.104.30</td>
+    <td>1080</td>
+    <td>内蒙古包头</td>
+    <td class="country">高匿</td>
+    <td>socks4/5</td>
+      <td>1196天</td>
+    <td>12 月前</td>
+  </tr>
+  
+  <tr class="">
+    <td class="country"><img src="http://fs.xicidaili.com/images/flag/cn.png" alt="Cn" /></td>
+    <td>110.73.30.246</td>
+    <td>6666</td>
+    <td>广西防城港</td>
+    <td class="country">高匿</td>
+    <td>socks4/5</td>
+      <td>1191天</td>
+    <td>12 月前</td>
+  </tr>
+  
+  <tr class="odd">
+    <td class="country"><img src="http://fs.xicidaili.com/images/flag/cn.png" alt="Cn" /></td>
+    <td>121.31.199.91</td>
+    <td>6675</td>
+    <td>广西桂林</td>
+    <td class="country">高匿</td>
+    <td>socks4/5</td>
+      <td>1138天</td>
+    <td>1 年前</td>
+  </tr>
+  
+  <tr class="">
+    <td class="country"><img src="http://fs.xicidaili.com/images/flag/cn.png" alt="Cn" /></td>
+    <td>182.90.15.172</td>
+    <td>6675</td>
+    <td>广西梧州</td>
+    <td class="country">高匿</td>
+    <td>socks4/5</td>
+      <td>1122天</td>
+    <td>1 年前</td>
+  </tr>
+  
+  <tr class="odd">
+    <td class="country"><img src="http://fs.xicidaili.com/images/flag/cn.png" alt="Cn" /></td>
+    <td>202.38.95.66</td>
+    <td>1080</td>
+    <td>安徽合肥</td>
+    <td class="country">高匿</td>
+    <td>socks4/5</td>
+      <td>1105天</td>
+    <td>1 年前</td>
+  </tr>
+  
+  <tr class="">
+    <td class="country"><img src="http://fs.xicidaili.com/images/flag/cn.png" alt="Cn" /></td>
+    <td>113.93.120.136</td>
+    <td>6675</td>
+    <td>广东江门市新会区</td>
+    <td class="country">高匿</td>
+    <td>socks4/5</td>
+      <td>1082天</td>
+    <td>1 年前</td>
+  </tr>
+  
+  <tr class="odd">
+    <td class="country"><img src="http://fs.xicidaili.com/images/flag/cn.png" alt="Cn" /></td>
+    <td>61.54.206.0</td>
+    <td>6675</td>
+    <td>河南三门峡</td>
+    <td class="country">高匿</td>
+    <td>socks4/5</td>
+      <td>1010天</td>
+    <td>1 年前</td>
+  </tr>
+  
+  <tr class="">
+    <td class="country"><img src="http://fs.xicidaili.com/images/flag/cn.png" alt="Cn" /></td>
+    <td>124.132.83.173</td>
+    <td>6675</td>
+    <td>山东济宁</td>
+    <td class="country">高匿</td>
+    <td>socks4/5</td>
+      <td>1分钟</td>
+    <td>2 年前</td>
+  </tr>
+  
+  <tr class="odd">
+    <td class="country"><img src="http://fs.xicidaili.com/images/flag/cn.png" alt="Cn" /></td>
+    <td>123.133.25.137</td>
+    <td>6668</td>
+    <td>山东潍坊</td>
+    <td class="country">高匿</td>
+    <td>socks4/5</td>
+      <td>1分钟</td>
+    <td>2 年前</td>
+  </tr>
+  
+  <tr class="">
+    <td class="country"><img src="http://fs.xicidaili.com/images/flag/cn.png" alt="Cn" /></td>
+    <td>202.119.199.147</td>
+    <td>1080</td>
+    <td>江苏徐州</td>
+    <td class="country">高匿</td>
+    <td>socks4/5</td>
+      <td>567天</td>
+    <td>2 年前</td>
+  </tr>
+  
+  <tr class="odd">
+    <td class="country"><img src="http://fs.xicidaili.com/images/flag/cn.png" alt="Cn" /></td>
+    <td>58.243.30.112</td>
+    <td>6668</td>
+    <td>安徽合肥</td>
+    <td class="country">高匿</td>
+    <td>socks4/5</td>
+      <td>1分钟</td>
+    <td>2 年前</td>
+  </tr>
+  
+  <tr class="">
+    <td class="country"><img src="http://fs.xicidaili.com/images/flag/cn.png" alt="Cn" /></td>
+    <td>183.67.175.124</td>
+    <td>6666</td>
+    <td>重庆</td>
+    <td class="country">高匿</td>
+    <td>socks4/5</td>
+      <td>1分钟</td>
+    <td>大约 3 年</td>
+  </tr>
+  
+  
+
+    </table>  
     
-    <div class="span5">
-      <div class="hero-unit price well">
-          <p class="type dps">私密代理1000+</p>
-          <h1>¥<span id="dps_fee0">60</span> <span id="dps_days0" class="time">1天</span></h1>
-          <p class="btn">
-            <a class="dps_buy0" data-p="day" data-t="dps" data-num="1" href="javascript:void(0);">立即购买</a>
-          </p>
-          <ul class="unstyled">
-            <li><i class="i-empty info dps">1000+</i>每天累计可用IP</li>
-            <li>&nbsp;</li>
-          </ul>
-      </div>  
-    </div>
-    <div class="span5">
-      <div class="hero-unit price well">
-          <p class="type dps">私密代理2000+</p>
-          <h1>¥<span id="dps_fee1">108</span> <span id="dps_days1" class="time">1天</span></h1>
-          <p class="btn">
-            <a class="dps_buy1" data-p="day" data-t="dps" data-num="2" href="javascript:void(0);">立即购买</a>
-          </p>
-          <ul class="unstyled">
-            <li><i class="i-empty info dps">2000+</i>每天累计可用IP</li>
-            <li class="center vip">&nbsp;</li>
-          </ul>
-      </div>  
-    </div>
-    <div class="span5">
-      <div class="hero-unit price well">
-          <p class="type dps">私密代理3000+</p>
-          <h1>¥<span id="dps_fee2">162</span> <span id="dps_days2" class="time">1天</span></h1>
-          <p class="btn">
-            <a class="dps_buy2" data-p="day" data-t="dps" data-num="3" href="javascript:void(0);">立即购买</a>
-          </p>
-          <ul class="unstyled">
-            <li><i class="i-empty info dps">3000+</i>每天累计可用IP</li>
-            <li class="center vip">&nbsp;</li>
-          </ul>
-      </div>  
-    </div>
   </div>
-  <div class="row-fluid">
-    <div class="feature">
-      <div class="hero-unit price well">
-          <ul class="unstyled">
-            <li class="title dps center">产品特性</li>
-            <li><i class="i-yes"></i>私密高品质代理服务器</li>
-            <li><i class="i-empty info dps">&gt;98%</i>快代理工程师保障代理IP可用率</li>
-            <li><i class="i-yes"></i>极速（响应时间&lt;1秒）</li>
-            <li><i class="i-yes"></i>高匿名，隐藏本机IP</li>
-            <li><i class="i-yes"></i>随机五位端口</li>
-            <li><i class="i-yes"></i>IP白名单授权使用</li>
-            <li><i class="i-yes"></i>支持多台设备同时使用</li>
-            <li><i class="i-yes"></i>支持HTTP GET / POST / CONNECT方法</li>
-            <li><i class="i-yes"></i>支持访问HTTPS网站</li>
-            <li><i class="i-yes"></i>API支持</li>
-            <li><i class="i-empty info dps">1秒10次</i>API最快调用频率</li>
-            <li><i class="i-empty info dps">2个起</i>API允许调用IP数</li>
-            <li><i class="i-yes"></i>API支持返回json, xml</li>
-            <li class="title dps center">用途</li>
-            <li><i class="i-yes"/></i>浏览网页</li>
-            <li><i class="i-yes"/></i>注册和登录</li>
-            <li><i class="i-yes"/></i>网购下单</li>
-            <li><i class="i-yes"/></i>数据爬取</li>
-            <li><i class="i-yes"/></i>投票</li>
-            <li><i class="i-yes"/></i>观看视频</li>
-            <li><i class="i-yes"/></i>使用QQ YY 旺旺等软件</li>
-            <li><i class="i-yes"/></i>玩网页游戏</li>
-            <li><i class="i-yes"/></i>其它需要HTTP代理的场景</li>
-          </ul>
-          <p class="btn">
-            <a class="dps_buy0" data-p="day" data-t="dps" href="javascript:void(0);">购买私密代理</a>
-          </p>
-      </div>  
+
+<div class="side">
+    <h2>购买专业版</h2>
+    <a target="_blank" ref="nofollow" href="http://www.daxiangdaili.com/"><img src="http://fs.xicidaili.com/images/side.png" alt="Side" /></a>
   </div>
-  </div>
-  <div class="alert alert-success" style=""><strong>重要提示：</strong>私密代理适合对代理IP数量要求较大，对代理品质要求高的客户</div>
+ 
+  
+  
 </div>
+<div id="links">
 
-<div id="area_kps" class="p-area" style="display:none;">
-  <div class="row-fluid">
-    <div class="span3">
-      <div class="hero-unit price well">
-          <p class="type kps">独享代理 <span>1</span>台</p>
-          <h1>¥<span id="kps_fee0">5</span> <span id="kps_days0" class="time">1天</span></h1>
-          <p class="price-hint">（合<span id="kps_unitfee0">5</span>元/台）</p>
-          <p class="btn">
-            <a class="kps_buy0" data-p="day" data-t="kps" data-num="1" href="javascript:void(0);">购买1台</a>
-          </p>
-      </div>  
-    </div>
-    <div class="span3">
-      <div class="hero-unit price well">
-          <p class="type kps">独享代理 <span>5</span>台</p>
-          <h1>¥<span id="kps_fee1">4.75</span> <span id="kps_days1" class="time">1天</span></h1>
-          <p class="price-hint">（9.5折 合<span id="kps_unitfee1">5</span>元/台）</p>
-          <p class="btn">
-            <a class="kps_buy1" data-p="day" data-t="kps" data-num="5" href="javascript:void(0);">购买5台</a>
-          </p>
-      </div>  
-    </div>
-    <div class="span3">
-      <div class="hero-unit price well">
-          <p class="type kps">独享代理 <span>10</span>台</p>
-          <h1>¥<span id="kps_fee2">4.5</span> <span id="kps_days2" class="time">1天</span></h1>
-          <p class="price-hint">（9折 合<span id="kps_unitfee2">5</span>元/台）</p>
-          <p class="btn">
-            <a class="kps_buy2" data-p="day" data-t="kps" data-num="10" href="javascript:void(0);">购买10台</a>
-          </p>
-      </div>  
-    </div>
-    <div class="span3">
-      <div class="hero-unit price well">
-          <p class="type kps">独享代理 <span>30</span>台</p>
-          <h1>¥<span id="kps_fee3">4.25</span> <span id="kps_days3" class="time">1天</span></h1>
-          <p class="price-hint">（8折 合<span id="kps_unitfee3">5</span>元/台）</p>
-          <p class="btn">
-            <a class="kps_buy3" data-p="day" data-t="kps" data-num="30" href="javascript:void(0);">购买30台</a>
-          </p>
-      </div>  
-    </div>
-  </div>
-  <div class="row-fluid">
-    <div class="feature">
-      <div class="hero-unit price well">
-          <ul class="unstyled">
-            <li class="title kps center">产品特性</li>
-            <li><i class="i-yes"></i>按台购买，1台独享1个固定IP</li>
-            <li><i class="i-yes"></i>超稳定（7x24稳定可用）</li>
-            <li><i class="i-yes"></i>极速（响应时间&lt;1秒）</li>
-            <li><i class="i-yes"></i>高匿名，隐藏本机IP</li>
-            <li><i class="i-yes"></i>支持HTTP GET / POST / CONNECT方法</li>
-            <li><i class="i-yes"></i>支持访问HTTPS网站</li>
-            <li><i class="i-yes"></i>五位端口</li>
-            <li><i class="i-yes"></i>IP白名单授权使用</li>
-            <li><i class="i-yes"></i>支持多台设备同时使用</li>
-            <li><i class="i-yes"></i>不限流量</li>
-            <li><i class="i-yes"></i>API支持</li>
-            <li><i class="i-yes"></i>覆盖国内几大一线城市</li>
-            <li><i class="i-yes"/></i>快代理工程师提供技术支持</li>
-            <li class="title kps center">用途</li>
-            <li><i class="i-yes"/></i>浏览网页</li>
-            <li><i class="i-yes"/></i>注册和登录</li>
-            <li><i class="i-yes"/></i>网购下单</li>
-            <li><i class="i-yes"/></i>数据爬取</li>
-            <li><i class="i-yes"/></i>投票</li>
-            <li><i class="i-yes"/></i>观看视频</li>
-            <li><i class="i-yes"/></i>使用QQ YY 旺旺等软件</li>
-            <li><i class="i-yes"/></i>玩网页游戏</li>
-            <li><i class="i-yes"/></i>其它需要HTTP代理的场景</li>
-          </ul>
-          <p class="btn">
-            <a class="kps_buy0" data-p="day" data-t="kps" href="javascript:void(0);">购买独享代理</a>
-          </p>
-      </div>  
-  </div>
-  <div class="alert alert-success" style="">
-      <strong>重要提示：</strong>独享适合对代理IP数量需求不大，但对稳定性要求极高的客户<br/>
-      1台独享代理具有1个固定IP，非特殊情况不能更换<br/>
-      高并发企业客户可联系客服进行服务器定制
-  </div>
-  </div>
+    
+
+  
 </div>
-
-<p style="color:#aaa;">* 订单有效期内不限量提取。有效期从购买时算起，比如包天订单，上午十点完成支付，有效期到第二天上午十点</p>
-<p style="color:#aaa;">* 新购订单24小时内可申请全额退款</p>
-<p style="color:#aaa;">* 累计消费满2000元可申请开具发票</p>
-<p style="color:#aaa;">* 如果列出的产品功能仍无法满足您的需求，请联系客服进行专属定制</p>
-
-
-</div>
-
-
-
-<div id="footer2">
-    <div class="container">
-        <div class="copyright">© 2013 - 2017 Kuaidaili.com 版权所有</div>
-        <div class="footnav"><a href="/about/">关于我们</a><span>|</span><a href="http://help.kuaidaili.com/law/" target="_blank">法律声明</a><span>|</span><a href="http://help.kuaidaili.com/contract/" target="_blank">服务条款</a><span>|</span><a href="/sitemap.xml">网站地图</a><span>|</span><a href="http://help.kuaidaili.com" target="_blank">帮助中心</a></div>
-        <div class="icon">
-           <a href="https://ss.knet.cn/verifyseal.dll?sn=e161117110108652324qkr000000&ct=df&a=1&pa=0.3305956236561214" target="_blank" title="可信网站"><img height="40" src="http://img.kuaidaili.com/img/kxlogo.png" alt="可信网站" /></a>
-        </div>
     </div>
-</div>
-
-<ul class="onMShow" style="display: block;">
-  <li>
-    <a href="/support/"><br>
-      <span class="bt1"></span>
-      <div>提交工单</div>
-    </a>
-  </li>
-  <li>
-    <a href="tel:010-57216816"><br>
-      <span class="bt2"></span>
-      <div class="two">客服电话：400-058-0638<br/>周一至周六 9:00-18:00</div>
-    </a>
-  </li>
-  <li>
-    <a href="http://wpa.qq.com/msgrd?v=3&uin=2162481273&site=qq&menu=yes"><br>
-      <span class="bt3"></span>
-      <div class="two">客服QQ：2162481273<br/>周一至周六 9:00-18:00</div>
-    </a>
-  </li>
-</ul>
-<a href="#top" id="top_btn" class="label btt" style="display:none;"><span class="icon-chevron-up icon-white"></span></a>
-
-
-<!--[if lt IE 8]><link rel="stylesheet" href="http://img.kuaidaili.com/css/ie.css?v=2" media="screen" /><![endif]-->
-<script language="javascript" type="text/javascript" src="http://img.kuaidaili.com/js/all.js?v=20"></script>
-
-<script type="text/javascript">
-if(IE()){
-    $('.i-yes').text("√").addClass("i-empty green").removeClass("i-yes");
-    $('.i-no').text("X").addClass("i-empty red").removeClass("i-no");
-}
-var product_list = ["ops", "dps", "kps"];
-var time_list = ["day", "week", "month", "year"];
-var price_map = {
-    "ops": {"day": [10, 20, 30, 60], "week": [30, 60, 90, 180], "month": [100, 200, 300, 600], "year": [1000, 2000, 3000, 6000]},
-    "dps": {"day": [60, 108, 162], "week": [300, 540, 810], "month": [900, 1620, 2430], "year": [9000, 16200, 24300]},
-    "kps": {"day": [5, 4.75, 4.5, 4 ], "week": [20, 19, 18, 16], "month": [50, 47.5, 45, 40], "year": [500, 475, 450, 400]},
-};
-var unit_day_map = {"day": 1, "week": 7, "month": 31, "year": 365}
-
-var current_p = "ops";
-var current_t = "day";
-function set_price(p, t){
-    var count = 1;
-    if(p == 'kps'){
-        count = 4;
-        var n = { 0: 1, 1: 5, 2: 10, 3: 30};
-        for (var i = 0; i < count; i++) {
-            $('#'+p+'_fee'+i).text(price_map[p][t][i]*n[i]);
-            $('#'+p+'_unitfee'+i).text(price_map[p][t][i]);
-            $('#'+p+'_days'+i).text(unit_day_map[t]+'天');
-            $('.'+p+'_buy'+i).attr('data-p', t);
-        }
-    }
-    else{
-        if(p == 'ops'){
-            count = 4;
-        }
-        if(p == 'dps'){
-            count = 3;
-        }
-        for (var i = 0; i < count; i++) {
-            $('#'+p+'_fee'+i).text(price_map[p][t][i]);
-            $('#'+p+'_days'+i).text(unit_day_map[t]+'天');
-            $('.'+p+'_buy'+i).attr('data-p', t);
-        }
-    }
-    $('.p-area').hide();
-    $('#area_'+p).show();
-    $('.tag_area a').removeClass('active');
-    $('#tag_'+p).addClass('active');
-    $('.sub_tag_area a').removeClass('active');
-    $('#subtag_'+t).addClass('active');
-}
-function change_product(p, count){
-    current_p = p;
-    set_price(current_p, current_t, count);
-}
-function change_time(t){
-    current_t = t;
-    set_price(current_p, current_t);
-}
-$('.hero-unit .btn a').click(function(){
-    var num = $(this).data('num');
-    url = '/cart?p=' + $(this).data('p') + '&t=' + $(this).data('t');
-    if(num) url += '&num=' + $(this).data('num');
-    window.location.href = url;
-});
-var hash = window.location.hash;
-if(hash){
-    if(hash == '#ops') { current_p = 'ops'; set_price('ops', current_t); }
-    if(hash == '#dps') { current_p = 'dps'; set_price('dps', current_t); }
-    if(hash == '#kps') { current_p = 'kps'; set_price('kps', current_t); }
-}
-else{
-    set_price(current_p, current_t);
-}
-</script>
-
-<script type="text/javascript">
-
-var menu = "menu_pricing";
-if(menu) $('#'+menu).addClass('active');
-var ucm = "";
-if(ucm){
-    $('#ucm_'+ucm).addClass('active');
-    $('#ucm_'+ucm+' a i').addClass('icon-white');
-}
-
-var _hmt = _hmt || [];
-(function() {
-  var hm = document.createElement("script");
-  hm.src = "//hm.baidu.com/hm.js?7ed65b1cc4b810e9fd37959c9bb51b31";
-  var s = document.getElementsByTagName("script")[0]; 
-  s.parentNode.insertBefore(hm, s);
-})();
-
-(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-})(window,document,'script','http://img.kuaidaili.com/ga/analytics.js','ga');
-ga('create', 'UA-76097251-1', 'auto');
-ga('send', 'pageview');
-
-</script>
-
-
+    
+    
+    <div id="footer">
+     <span class="site_name">苏ICP备13041844号-1</span> 
+     <span class="site_name">西刺免费代理IP</span> 
+     <span class="copy">&copy;</span>
+     <span class="site_url">XiciDaili.com </span>
+    </div>
+  </div>
+  <div style="display:none">
+    
+    <script>
+    var _hmt = _hmt || [];
+    (function() {
+      var hm = document.createElement("script");
+      hm.src = "https://hm.baidu.com/hm.js?0cf76c77469e965d2957f0553e6ecf59";
+      var s = document.getElementsByTagName("script")[0]; 
+      s.parentNode.insertBefore(hm, s);
+    })();
+    </script>
+    
+  </div>
 </body>
 </html>
