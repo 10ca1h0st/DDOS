@@ -1,7 +1,7 @@
 git init
 git config --global user.name "wujiaming123"
 git config --global user.email "lipingwujiaming@yahoo.com"
-git remote add origin git@github.com:wujiaming123/DDOS
+git remote add origin git@github.com:wujiaming123/DDOS.git
 git pull git@github.com:wujiaming123/DDOS
 git add .
 git commit -m "test"
