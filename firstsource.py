@@ -4,6 +4,7 @@ import zlib
 import sys
 
 header={}
+ip_list=[]
 
 def getHeader(filename):
     fp=open(filename,'r')
@@ -27,13 +28,14 @@ def getHtml(url):
 
 def getIpAddr(html):
     bs=BeautifulSoup(html,'lxml')
-    count=0
+    #count=0
     for tr_odd in bs.find_all('tr',class_='odd'):
         tr_none=tr_odd.next_sibling.next_sibling
-        print tr_odd.find('td',class_='country').next_sibling.next_sibling.string
-        print tr_none.find('td',class_='country').next_sibling.next_sibling.string
-        count+=2
-    print 'ip address counts '+str(count)
+        ip_list.append(tr_odd.find('td',class_='country').next_sibling.next_sibling.string)
+        ip_list.append(tr_none.find('td',class_='country').next_sibling.next_sibling.string)
+        #count+=2
+    #print 'ip address counts '+str(count)
+    return ip_list
 
 
 
