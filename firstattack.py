@@ -44,7 +44,7 @@ def main():
     threads=[Attack_Thread(1),Attack_Thread(2),Attack_Thread(3),Attack_Thread(4)]
     for thread in threads:
         thread.start()
-    time.sleep(1000)
+    time.sleep(1)
     for thread in threads:
         thread.stop()
 
